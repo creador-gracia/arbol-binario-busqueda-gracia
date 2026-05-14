@@ -1,5 +1,9 @@
 # arbol-binario-busqueda-gracia
 Examen final de EDD
+**Estudiante:** Gracia Carrillo  
+**Curso:** Estructuras de Datos – Universidad Da Vinci de Guatemala
+
+
 # Árbol Binario de Búsqueda (BST) – Fase 2
 
 ##  Descripción
