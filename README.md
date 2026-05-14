@@ -22,7 +22,7 @@ Implementación en Java de un Árbol Binario de Búsqueda que permite inserción
 - `postOrder(Node root)`
 
 ##  Video de defensa
-[Enlace al video] (TU_ENLACE_AQUI)
+[Enlace al video] (https://youtu.be/N3Q6FG5nX9c)
 
 ##  Complejidad
 - Búsqueda: O(log n) promedio / O(n) peor caso  
